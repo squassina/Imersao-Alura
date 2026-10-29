@@ -1,0 +1,6 @@
+{
+  "name": "Minhas Tarefas",
+  "description": "Uma aplicação simples e intuitiva de lista de tarefas com organização, filtros e acompanhamento de progresso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
